@@ -59,13 +59,23 @@
     ],
     "social_link": "https://github.com/iris1598"
   },
+  "astrbot-plugin-video-reference-vision": {
+    "display_name": "引用视频理解",
+    "desc": "AstrBot 引用视频理解插件，支持视频回查、转述与抽帧。",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot-plugin-video-reference-vision",
+    "tags": [
+      "视频"
+    ],
+    "social_link": "https://github.com/iris1598"
+  },
   "astrbot_plugin_rika_share": {
     "display_name": "莉卡解析",
     "desc": "莉卡解析 - 链接分享自动解析插件，支持 B站|抖音|快手|微博|小红书|Twitter|AcFun|NGA",
     "author": "miku1598",
     "repo": "https://github.com/iris1598/astrbot_plugin_rika_share",
     "tags": [
-      "隔离"
+      "解析"
     ],
     "social_link": "https://github.com/iris1598"
   }
