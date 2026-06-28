@@ -1,0 +1,72 @@
+{
+  "astrbot-plugin-multincm": {
+    "display_name": "网易云多选点歌",
+    "desc": "基于 pyncm 的网易云多选点歌插件，支持搜索歌曲/专辑/歌单/电台，翻页选择，歌词获取，QQ 音乐卡片发送",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot_plugin_multincm",
+    "tags": [
+      "音乐"
+    ],
+    "social_link": "https://github.com/iris1598"
+  },
+  "astrbot-plugin-deer-pipe": {
+    "display_name": "🦌签到",
+    "desc": "从 nonebot-plugin-deer-pipe 移植的鹿管签到插件，含完整功能和原版图片样式",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot_plugin_deer_check",
+    "tags": [
+      "🦌"
+    ],
+    "social_link": "https://github.com/iris1598"
+  },
+  "astrbot-plugin-favorability": {
+    "display_name": "好感度系统",
+    "desc": "好感度系统——AI根据对话内容自主更新用户好感度与评价，支持表情包回应、禁言处罚、PIL图片渲染查询与排行。",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot_plugin_favorability",
+    "tags": [
+      "好感度"
+    ],
+    "social_link": "https://github.com/iris1598"
+  },
+  "astrbot-plugin-gifcaijian": {
+    "display_name": "gif变速",
+    "desc": "GIF裁剪/合成/分解/变速(倍速&帧率,支持>50fps抽帧)/表情包做旧等功能",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot_plugin_gifcaijian",
+    "tags": [
+      "gif"
+    ],
+    "social_link": "https://github.com/iris1598"
+  },
+  "astrbot-plugin-groupmate": {
+    "display_name": "娶群友·群友社交",
+    "desc": "娶群友 / 透群友 / CP 管理，nonebot_plugin_groupmate 的 AstrBot 移植版。支持随机/指定娶群友、CP 绑定、NTR、保护名单、离婚冷却、涩涩记录等功能。",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot_plugin_groupmate",
+    "tags": [
+      "娶群友"
+    ],
+    "social_link": "https://github.com/iris1598"
+  },
+  "astrbot-plugin-isolated-session": {
+    "display_name": "隔离会话",
+    "desc": "群聊会话隔离插件 — 指定群聊中每位成员的 LLM 对话上下文互相独立，支持每群聊独立配置轮次/Token限制与压缩策略",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot_plugin_isolated_session",
+    "tags": [
+      "隔离"
+    ],
+    "social_link": "https://github.com/iris1598"
+  },
+  "astrbot_plugin_rika_share": {
+    "display_name": "莉卡解析",
+    "desc": "莉卡解析 - 链接分享自动解析插件，支持 B站|抖音|快手|微博|小红书|Twitter|AcFun|NGA",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot_plugin_rika_share",
+    "tags": [
+      "隔离"
+    ],
+    "social_link": "https://github.com/iris1598"
+  }
+}
