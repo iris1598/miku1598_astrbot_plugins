@@ -79,6 +79,16 @@
     ],
     "social_link": "https://github.com/iris1598"
   },
+  "astrbot-plugin-pic-mirror": {
+    "display_name": "更多的图像对称",
+    "desc": "一个图像对称处理插件，用于生成诡异弔图，可以为图片添加多种镜像效果",
+    "author": "miku1598",
+    "repo": "https://github.com/iris1598/astrbot-plugin-pic-mirror",
+    "tags": [
+      "对称"
+    ],
+    "social_link": "https://github.com/iris1598"
+  },
   "astrbot_plugin_rika_share": {
     "display_name": "莉卡解析",
     "desc": "莉卡解析 - 链接分享自动解析插件，支持 B站|抖音|快手|微博|小红书|Twitter|AcFun|NGA",
